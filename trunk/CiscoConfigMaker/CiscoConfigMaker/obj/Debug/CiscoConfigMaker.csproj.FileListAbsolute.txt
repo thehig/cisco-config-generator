@@ -1,0 +1,16 @@
+C:\Users\hig\Desktop\NetsocSVN\General Code\CSharp\CISCO\CiscoConfigMaker\CiscoConfigMaker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hig\Desktop\NetsocSVN\General Code\CSharp\CISCO\CiscoConfigMaker\CiscoConfigMaker\obj\Debug\CiscoConfigMaker.Form1.resources
+C:\Users\hig\Desktop\NetsocSVN\General Code\CSharp\CISCO\CiscoConfigMaker\CiscoConfigMaker\obj\Debug\CiscoConfigMaker.Properties.Resources.resources
+C:\Users\hig\Desktop\NetsocSVN\General Code\CSharp\CISCO\CiscoConfigMaker\CiscoConfigMaker\obj\Debug\CiscoConfigMaker.csproj.GenerateResource.Cache
+C:\Users\hig\Desktop\NetsocSVN\General Code\CSharp\CISCO\CiscoConfigMaker\CiscoConfigMaker\bin\Debug\CiscoConfigMaker.exe
+C:\Users\hig\Desktop\NetsocSVN\General Code\CSharp\CISCO\CiscoConfigMaker\CiscoConfigMaker\bin\Debug\CiscoConfigMaker.pdb
+C:\Users\hig\Desktop\NetsocSVN\General Code\CSharp\CISCO\CiscoConfigMaker\CiscoConfigMaker\obj\Debug\CiscoConfigMaker.exe
+C:\Users\hig\Desktop\NetsocSVN\General Code\CSharp\CISCO\CiscoConfigMaker\CiscoConfigMaker\obj\Debug\CiscoConfigMaker.pdb
+C:\Documents and Settings\x00003549\Desktop\NetsocSVN\General Code\CSharp\CISCO\CiscoConfigMaker\CiscoConfigMaker\obj\Debug\CiscoConfigMaker.exe
+C:\Documents and Settings\x00003549\Desktop\NetsocSVN\General Code\CSharp\CISCO\CiscoConfigMaker\CiscoConfigMaker\obj\Debug\CiscoConfigMaker.pdb
+C:\Documents and Settings\x00003549\Desktop\NetsocSVN\General Code\CSharp\CISCO\CiscoConfigMaker\CiscoConfigMaker\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\x00003549\Desktop\NetsocSVN\General Code\CSharp\CISCO\CiscoConfigMaker\CiscoConfigMaker\obj\Debug\CiscoConfigMaker.Form1.resources
+C:\Documents and Settings\x00003549\Desktop\NetsocSVN\General Code\CSharp\CISCO\CiscoConfigMaker\CiscoConfigMaker\obj\Debug\CiscoConfigMaker.Properties.Resources.resources
+C:\Documents and Settings\x00003549\Desktop\NetsocSVN\General Code\CSharp\CISCO\CiscoConfigMaker\CiscoConfigMaker\obj\Debug\CiscoConfigMaker.csproj.GenerateResource.Cache
+C:\Documents and Settings\x00003549\Desktop\NetsocSVN\General Code\CSharp\CISCO\CiscoConfigMaker\CiscoConfigMaker\bin\Debug\CiscoConfigMaker.exe
+C:\Documents and Settings\x00003549\Desktop\NetsocSVN\General Code\CSharp\CISCO\CiscoConfigMaker\CiscoConfigMaker\bin\Debug\CiscoConfigMaker.pdb
