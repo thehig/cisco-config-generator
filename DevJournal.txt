@@ -1,0 +1,5 @@
+Cisco Config Dev Journal
+
+17 Apr 09 - 13:39 - Make the save box autoName based on the Hostname and add .ciscoConfig extension
+17 Apr 09 - 12:32 - Put in the dot1q encapsulation code for router trunking
+					The DHCP setup works, as do basic router int configs
